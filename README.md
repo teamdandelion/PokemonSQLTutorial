@@ -7,6 +7,7 @@ Some sql or sqlite engine (I used sqlite3)
 Usage:
 ------------
 Pipe the .sql statements into the sqlite engine, like so: 
+
 	$ sqlite3 pokedex.sqlite < gen1Moves.sql
 
 Experiment with the examples and get a feel for SQL.
